@@ -1,4 +1,4 @@
-# Temporal-Networks-Clustering
+# Temporal Networks Clustering
 <p>
 <img src="https://img.shields.io/badge/-peterdavidfagan-blue"> 
 &emsp; 
@@ -6,6 +6,10 @@
 </p>
 
 <img src='assets/ucc_logo.jpg' height=100>
+
+## Introduction
+Welcome, this repository is used to track code related to one of my theses for my Bsc Hons in Mathematical Sciences (UCC Class 2019).
+The goal of this thesis is to investigate and make additions to methods used to define clustering in temporal networks. In particular we investigate a dataset relating to human interactions at a conference.
 
 ## Abstract
 The concept of clustering is well established in network science and useful to quantify the local cohesiveness of a network [15]. The local clustering coefficient, for instance, can be computed as the fraction of existing links between neighbours of a node and the maximum size of its neighbourhood [10]. Among other phenomena, this - together with a shortest average path length - explains the notion of small-world networks. Many networks, however, undergo temporal changes, which modify their structure. Then, the neighbourhood is also subject to change and the temporal ordering of link appearance becomes important to preserve causality. In this project, we aim to extend the concept of clustering to time-varying networks and apply it to both empirical and generic networks.
@@ -24,3 +28,10 @@ Heidelberg, p. 15.
 [15] M. E. J. Newman (2001). Clustering and preferential attachment in growing networks, Phys. Rev. E
 364, 025102(R).
  
+## Where to find the data
+
+## Accessing the report & code
+
+## Further contact
+Supervisor: Philipp Hoevel (philipp.hoevel@ucc.ie)
+Author: Peter David Fagan (peterdavidfagan@gmail.com)
