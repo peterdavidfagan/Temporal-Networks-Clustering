@@ -39,4 +39,5 @@ The written report can be found in the form of a pdf in the report folder of thi
 
 ## Further contact
 Supervisor: Philipp Hoevel (philipp.hoevel@ucc.ie)
+
 Author: Peter David Fagan (peterdavidfagan@gmail.com)
