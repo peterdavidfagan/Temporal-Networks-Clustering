@@ -29,8 +29,11 @@ Heidelberg, p. 15.
 364, 025102(R).
  
 ## Where to find the data
+The data can be accessed at http://www.sociopatterns.org/datasets/sfhh-conference-data-set/. 
+The data file is in the usual format representing the active contacts during 20-second intervals of the data collection. Each line has the form “t i j”, where i and j are the anonymous IDs of the persons in contact, and the interval during which this contact was active is [ t – 20s, t ] (t is expressed in seconds).
 
 ## Accessing the report & code
+The written report can be found in the form of a pdf in the report folder of this repository. The source code for the project can be found within the src folder.
 
 ## Further contact
 Supervisor: Philipp Hoevel (philipp.hoevel@ucc.ie)
