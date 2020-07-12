@@ -38,6 +38,6 @@ The data file is in the usual format representing the active contacts during 20-
 The written report can be found in the form of a pdf in the report folder of this repository. The source code for the project can be found within the src folder.
 
 ## Further contact
-Supervisor: Philipp Hoevel (philipp.hoevel@ucc.ie)
+**Supervisor:** Philipp Hoevel (philipp.hoevel@ucc.ie)
 
-Author: Peter David Fagan (peterdavidfagan@gmail.com)
+**Author:** Peter David Fagan (peterdavidfagan@gmail.com)
