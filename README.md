@@ -35,7 +35,10 @@ The written report can be found in the form of a pdf in the report folder of thi
 Heidelberg, p. 15.
 
 [7] H. K. Lentz, Thomas Selhorst, and Igor M. Sokolov (2012). Unfolding Accessibility Provides a Macroscopic Approach to Temporal Networks. Phys. Rev. Lett. 110, 118701.
+
 [10] D. J. Watts and S. J. Strogatz (1998). Collective dynamics of "small-world" networks, Nature 393, 440.
+
 [14] Mathieu Génois and Alain Barrat (2018). Can co-location be used as a proxy for face-to-face contacts? EPJ Data Science2018 7:11.
+
 [15] M. E. J. Newman (2001). Clustering and preferential attachment in growing networks, Phys. Rev. E
 364, 025102(R).
