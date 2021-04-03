@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/-peterdavidfagan-blue"> 
 </p>
 
-<img src='assets/ucc_logo.jpg' height=100>
+<img src='assets/ucc_logo.jpg' height=200>
 
 ## Introduction
 Welcome, this repository is used to track code related to one of my theses for my Bsc Hons in Mathematical Sciences (UCC Class 2019).
